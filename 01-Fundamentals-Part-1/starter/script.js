@@ -157,3 +157,50 @@ else
 {
   console.log("Please Get Both Driving License and a Spectacle");
 }
+
+// Switch Statements 
+const day ="monday";
+switch(day)
+{
+  case "monday": //day==="monday"
+  console.log('Plan Course Structure');
+  console.log('Go to Coding Meetup');
+  break;
+
+  case "tuesday":
+  console.log('Playing Games');
+  break;
+
+  case "Wedneesday":
+  console.log('Coding');
+  break;
+
+  case "Thursday":
+  console.log('Coding');
+  break;
+
+  case "Friday":
+  console.log('Coding');
+  break;
+
+  case "Saturday":
+  console.log('Coding');
+  break;
+
+  case "Sunday":
+  console.log('Coding');
+  break;
+
+  default:
+    console.log('Not a Valid Day');
+}
+
+//Statements and Expressions 
+
+
+
+//The Conditional (ternary) Operator  - This is a one line code of substittution fot if else statement
+const Myage = 22;
+Myage >=18 ? console.log('I Like to drink wine  🍷' )
+: console.log('I Like to Drink Water 💧');
+
