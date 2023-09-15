@@ -25,7 +25,7 @@ console.log("My Country is: ",country);
 console.log("Population is: ", population);
 console.log("The Language is: ",language);
 
-//Lecture - let,const and var 
+//Lecture - let,const and var - Questions 
 population = 21 ; //changed the population to 21 million which is defined as inital to 20 milliom above 
 console.log(population);
 
